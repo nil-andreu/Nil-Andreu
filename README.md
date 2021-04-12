@@ -6,6 +6,6 @@
 - 👯 I’m looking to help other programmers learn as fast as possible
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nil-Andreu&layout=compact&theme=dark&exclude_repo='machinelearningcourse')](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nil-Andreu&layout=compact&theme=dark&exclude_repo=machinelearningcourse)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NilAndreu)](https://github.com/anuraghazra/github-readme-stats)
 
