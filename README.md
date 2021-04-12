@@ -5,8 +5,16 @@
 - 🌱 I’m currently learning React.js & Mahcine Learning
 - 👯 I’m looking to help other programmers learn as fast as possible
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nil-Andreu&count_private=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NilAndreu)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nil-Andreu&count_private=true" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nil-Andreu&layout=compact&theme=gradient&exclude_repo=machinelearningcourse,mnistclassification,housingprices)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nil-Andreu&layout=compact&theme=gradient&exclude_repo=machinelearningcourse,mnistclassification,housingprices" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=NilAndreu" />
+</a>
+
 
