@@ -7,7 +7,7 @@
 
 ### My GitHub Stats: 
 <p align="center";
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nil Andreu&layout=compact&theme=gradient&exclude_repo=machinelearningcourse,mnistclassification,housingprices" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nil-Andreu&layout=compact&theme=gradient&exclude_repo=machinelearningcourse,mnistclassification,housingprices" />
   <img src="https://github-readme-stats.vercel.app/api?username=Nil-Andreu&count_private=true" />
 </p>
 
