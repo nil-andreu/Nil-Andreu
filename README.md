@@ -13,5 +13,5 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Nil-Andreu&show_icons=true&theme=radical&locale=en&title_color=fcb526" alt="Nil Andreu Stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nil-Andreu&layout=compact&theme=radical&locale=en&title_color=fcb526" alt="Nil Andreu Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nil-Andreu&layout=compact&theme=radical&exclude_repo=machinelearningcourse,mnistclassification,housingprices&locale=en&title_color=fcb526" alt="Nil Andreu Languages" height="165">
 </p>
