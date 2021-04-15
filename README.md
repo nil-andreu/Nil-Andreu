@@ -8,7 +8,7 @@
 ### My GitHub Stats: 
 <p align="center";
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nil-    Andreu&layout=compact&theme=gradient&exclude_repo=machinelearningcourse,mnistclassification,housingprices" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nil-Andreu&layout=compact&theme=gradient&exclude_repo=machinelearningcourse,mnistclassification,housingprices" />
   </a>
 
 
