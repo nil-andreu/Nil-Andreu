@@ -1,9 +1,9 @@
 ## Hi there 👋
-### I am Nil Andreu, a self-taught software developer that is currently studying at university BBA.
+### I am Nil Andreu, a self-taught software developer who is currently studying at university UPF, the Bachelor of Business Administration.
 
-- 🔭 I’m currently working on HTML, CSS, JS & Python (Django)
-- 🌱 I’m currently learning React.js & Machine Learning
-- 👯 I’m looking to help other programmers learn as fast as possible
+- 🔭 What I already know is HTML, CSS, JS & Python (Django)
+- 🌱 I’m currently learning React.js & Machine Learning (you can see courses of each one in my repositories)
+- 👯 I aspire to help other people accomplish their goals
 
 ### Technologies:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
