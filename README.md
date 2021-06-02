@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### I am Nil Andreu, a self-taught software developer who is currently studying at university UPF, the Bachelor of Business Administration.
 
-- 🔭 What I already know is HTML, CSS, JS & Python (Django)
-- 🌱 I’m currently learning React.js & Machine Learning (you can see courses of each one in my repositories)
+- 🔭 What I'm currently using is HTML, CSS (Grid, Flexbox, Bootstrap & Sass), JS (with React.js, Three.js & gsap) & Python (Django)
+- 🌱 I’m currently learning Firebase & Machine Learning (you can see a course of ML in my repositories)
 - 👯 I aspire to help other people accomplish their goals
 
 ### Technologies:
