@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Firebase & Machine Learning (you can see a course of ML in my repositories)
 - 👯 I aspire to help other people accomplish their goals
 
-### Technologies:
+### Technologies managed:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
@@ -22,7 +22,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
   
-### My GitHub Stats: 
+### My GitHub Statistics: 
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Nil-Andreu&show_icons=true&theme=radical&locale=en&title_color=fcb526&count_private=true" alt="Nil Andreu Stats" width="420"/>&nbsp;
