@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/Nil-Andreu/Nil-Andreu/master/profile.gif)
 ## Hi there 👋
 ### I am Nil Andreu, a self-taught software developer who is currently studying at university UPF, the Bachelor of Business Administration.
 
@@ -31,4 +30,4 @@
 </p>
 
 ### Now Playing 🎧
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/NilAndreu)
+![![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/NilAndreu)
