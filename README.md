@@ -30,7 +30,7 @@
 </p>
 
 ### Now Playing 🎧
-<p align="center"> 
+<div align="center"> 
 
     [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/Nil-Andreu)
-</p>
+</div>
