@@ -2,7 +2,7 @@
 ### I am Nil Andreu, a self-taught software engineer who is studying the Bacehlor of Business Administration at UPF university.
 
 - 🔭 What I'm currently using is HTML, CSS (Grid, Flexbox, Bootstrap & Sass), JS (with React.js, Three.js & gsap) & Python (Django)
-- 🌱 I’m learning <a href="https://github.com/Nil-Andreu/typescript">TypeScript</a>, advanced <a href="https://github.com/Nil-Andreu/antifragile-coders"> data structures <a/>, <a href="https://github.com/Nil-Andreu/machinelearningcourse" >Machine Learning </a> & <a href="https://github.com/Nil-Andreu/leads-manager">full-stack Django-React</a>.
+- 🌱 I’m learning <a href="https://github.com/Nil-Andreu/typescript">TypeScript</a>, <a href="https://github.com/Nil-Andreu/antifragile-coders"> advanced data structures <a/>, <a href="https://github.com/Nil-Andreu/machinelearningcourse" >Machine Learning </a> & <a href="https://github.com/Nil-Andreu/leads-manager">full-stack Django-React</a>.
 - 👯 I aspire to help other people accomplish their goals
 
 ### Languages:
