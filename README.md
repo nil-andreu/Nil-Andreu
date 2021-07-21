@@ -32,6 +32,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nil-Andreu&show_icons=true&theme=radical&locale=en&title_color=fcb526&count_private=true" alt="Nil Andreu Stats" width="420"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nil-Andreu&layout=compact&theme=radical&exclude_repo=machinelearningcourse,mnistclassification,housingprices&locale=en&title_color=fcb526" alt="Nil Andreu Languages" height="165">
 </p>
-
-### Now Playing 🎧
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/NilAndreu)
