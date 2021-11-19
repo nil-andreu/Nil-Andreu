@@ -1,4 +1,6 @@
 ## Hello there 👋
+<div style="text-align:center;"><img align="center" width="1400" height="300" src="./profile2.gif"/></div>
+
 ### I am Nil Andreu, a self-taught software engineer who is studying the Bachelor of Business Administration at UPF university.
 
 - 🔭 What I'm currently using is HTML, CSS (Grid, Flexbox, Bootstrap & Sass), JS (with React.js, Three.js & gsap.js), SQL & Python (Django‚ Django Rest Framework)
