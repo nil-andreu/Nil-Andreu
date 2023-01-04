@@ -1,7 +1,7 @@
 ## Hello there 👋
 <div style="text-align:center;"><img align="center" width="1400" height="300" src="./profile2.gif"/></div>
 
-### I am Nil Andreu, a self-taught software engineer who is a postgraduate of Data Science & Machine Learning.
+### I am Nil Andreu, a self-taught software engineer who is studying a postgraduate of Data Science & Machine Learning in University of Barcelona.
 
 - 🔭 What I'm currently using is HTML, CSS (Grid, Flexbox, Bootstrap & Sass), JS (with React.js, Three.js & gsap.js), SQL & Python (Django‚ Django Rest Framework)
 - 🌱 I’m learning <a href="https://github.com/Nil-Andreu/typescript">TypeScript</a>, <a href="https://github.com/Nil-Andreu/antifragile-coders"> advanced data structures <a/>, <a href="https://github.com/Nil-Andreu/machinelearningcourse" >Machine Learning </a> & <a href="https://github.com/Nil-Andreu/leads-manager">full-stack Django-React</a>.
