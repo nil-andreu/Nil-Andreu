@@ -4,9 +4,9 @@
 
 🔭 What I'm currently using in **software development** is HTML, CSS (Grid, Flexbox, Bootstrap & Sass), JS & TS (with React.js, Three.js & gsap.js), SQL, Python (FastAPI, Flask, Django & Django Rest Framework) & Golang (Gin).
 
-🌱 In **insfrastructure**, have used Docker, K8s, Terraform in Google Cloud & AWS.
-
 👯 For **data science** I have experience working with statsmodels, Pandas, scikit-learn, PyTorch (including PyTorch Lightning), Tensorflow & Keras.
+
+🌱 In **insfrastructure**, have used Docker, K8s, Terraform in Google Cloud & AWS.
 
 <p align="center">
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=nil-andreu&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
