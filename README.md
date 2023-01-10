@@ -1,36 +1,25 @@
 ## Hello there 👋
-<div style="text-align:center;"><img align="center" width="1400" height="300" src="./profile2.gif"/></div>
 
-### I am Nil Andreu, a self-taught software engineer who is studying a postgraduate of Data Science & Machine Learning in University of Barcelona.
+### I am Nil Andreu, Python Engineer & student of Data Science & ML in University of Barcelona.
 
-- 🔭 What I'm currently using is HTML, CSS (Grid, Flexbox, Bootstrap & Sass), JS (with React.js, Three.js & gsap.js), SQL & Python (Django‚ Django Rest Framework)
-- 🌱 I’m learning <a href="https://github.com/Nil-Andreu/typescript">TypeScript</a>, <a href="https://github.com/Nil-Andreu/antifragile-coders"> advanced data structures <a/>, <a href="https://github.com/Nil-Andreu/machinelearningcourse" >Machine Learning </a> & <a href="https://github.com/Nil-Andreu/leads-manager">full-stack Django-React</a>.
-- 👯 I aspire to help other people accomplish their goals
+🔭 What I'm currently using in **software development** is HTML, CSS (Grid, Flexbox, Bootstrap & Sass), JS & TS (with React.js, Three.js & gsap.js), SQL, Python (FastAPI, Flask, Django & Django Rest Framework) & Golang (Gin).
 
-### Languages:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=sql&logoColor=white)
-  
-### Technologies managed:
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-f043ca?style=flat-square&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-2c852f?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+🌱 In **insfrastructure**, have used Docker, K8s, Terraform in Google Cloud & AWS.
 
-  
-### My GitHub Statistics: 
+👯 For **data science** I have experience working with statsmodels, Pandas, scikit-learn, PyTorch (including PyTorch Lightning), Tensorflow & Keras.
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Nil-Andreu&show_icons=true&theme=radical&locale=en&title_color=fcb526&count_private=true" alt="Nil Andreu Stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nil-Andreu&layout=compact&theme=radical&exclude_repo=machinelearningcourse,mnistclassification,housingprices,deep-learning&locale=en&title_color=fcb526" alt="Nil Andreu Languages" height="165">
+<p align="center">
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=nil-andreu&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="42%"  src="https://github-readme-streak-stats.herokuapp.com/?user=nil-andreu&hide_border=true" />
 </p>
+
+
+⚡ Some of my relevant contributions to Open Source:
+
+- [OpenAssistant](https://github.com/LAION-AI/Open-Assistant) (4k Stars): contributed in the classification of the messages regarding the toxicity & creation of embeddings message for clustering/similarity. Done with FastAPI, alembic, asyncio & HuggingFace.
+- [Auto-Deep-Learning](https://github.com/Nil-Andreu/auto-deep-learning) (4k Downloads): library I created with the aim of auto-creating based on the data the architecture of a neural network for multi-modal image classification, as well as train, test & deploy. 
+
+
+
+📫 How to reach me: nilandreug@gmail.com
+
