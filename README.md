@@ -18,8 +18,8 @@
 
 ⚡ Some of my relevant contributions to Open Source:
 
-- [OpenAssistant](https://github.com/LAION-AI/Open-Assistant) (4k Stars): worked in **NLP** for the **messages classification** regarding its toxicity & creation of embeddings message for **clustering**/similarity. Done with **FastAPI**, **alembic**, **asyncio** & **HuggingFace**.
-- [Auto-Deep-Learning](https://github.com/Nil-Andreu/auto-deep-learning) (4k Downloads): library I created with the aim of auto-creating based on the data the architecture of a neural network for **multi-modal image classification**, as well as train, test & deploy. Done with **PyTorch**.
+- [OpenAssistant](https://github.com/LAION-AI/Open-Assistant) (4k Stars): worked in **NLP** for the **messages classification** regarding its toxicity & creation of embeddings message for **clustering**/**similarity**. Done with **FastAPI**, **alembic**, **asyncio** & **HuggingFace**.
+- [Auto-Deep-Learning](https://github.com/Nil-Andreu/auto-deep-learning) (4k Downloads): library I created with the aim of auto-creating, based on the data, the architecture of a neural network for **multi-modal image classification**, as well as train, test & deploy. Done with **PyTorch** & **HuggingFace**.
 
 
 
