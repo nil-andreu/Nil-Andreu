@@ -18,7 +18,7 @@
 
 ⚡ Some of my relevant contributions to Open Source:
 
-- [OpenAssistant](https://github.com/LAION-AI/Open-Assistant) (16k Stars): worked in **NLP** for the **messages classification** regarding its toxicity & creation of embeddings message for **clustering**/**similarity**. Done with **FastAPI**, **alembic**, **asyncio** & **HuggingFace**.
+- [OpenAssistant](https://github.com/LAION-AI/Open-Assistant) (17k Stars): worked in **NLP** for the **messages classification** regarding its toxicity & creation of embeddings message for **clustering**/**similarity**. Done with **FastAPI**, **alembic**, **asyncio** & **HuggingFace**.
 - [Auto-Deep-Learning](https://github.com/Nil-Andreu/auto-deep-learning) (5k Downloads): library I created with the aim of auto-creating, based on the data, the architecture of a neural network for **multi-modal image classification**, as well as train, test & deploy. Done with **PyTorch** & **HuggingFace**.
 - [Postgres-Backup](https://github.com/Nil-Andreu/postgres-backup) (7k Downloads): have cross-cloud provider & cross-region backups with this library for **automating the creation & upload of PostgreSQL backups to AWS & GCS**. Done with **boto3** & **google-cloud-storage**.
 
