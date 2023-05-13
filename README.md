@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-### I am Nil Andreu, Python Engineer & student of Data Science & ML in University of Barcelona.
+### I am Nil Andreu, Machine Learning Engineer & student of Data Science & ML in University of Barcelona.
 
 🔭 What I'm currently using in **software development** is **HTML**, **CSS** (Grid, Flexbox, Bootstrap & Sass), **JS** & **TS** (with React.js, Three.js & gsap.js), **SQL**, **Python** (FastAPI, Flask, Django & Django Rest Framework) & **Golang** (Gin).
 
