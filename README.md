@@ -4,7 +4,7 @@
 
 🔭 What I'm currently using in **software development** is **HTML**, **CSS** (Grid, Flexbox, Bootstrap & Sass), **JS** & **TS** (with React.js, Three.js & gsap.js), **SQL**, **Python** (FastAPI, Flask, Django & Django Rest Framework) & **Golang** (Gin).
 
-👯 For **data science** I have experience working with statsmodels, **Pandas**, **scikit-learn**, **PyTorch** (including PyTorch Lightning), **Tensorflow** & **Keras**.
+👯 For **data science** I have experience working with **statsmodels**, **Pandas**, **scikit-learn**, **PyTorch** (including PyTorch Lightning), **Tensorflow** & **Keras**.
 
 🌱 In **insfrastructure**, have used **Docker**, **K8s**, **Terraform** in Google Cloud & AWS.
 
