@@ -6,7 +6,7 @@
 
 👯 For **data science** I have experience working with **statsmodels**, **Pandas**, **scikit-learn**, **PyTorch** (including PyTorch Lightning), **Tensorflow** & **Keras**.
 
-🌱 In **insfrastructure**, have used **Docker**, **K8s**, **Terraform** in Google Cloud & AWS.
+🌱 In **insfrastructure**, have used **Docker**, **Kubernetes**, **Terraform** in Google Cloud & AWS.
 
 👨‍💻 My actual **statistics** in GitHub:
 
